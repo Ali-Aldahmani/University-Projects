@@ -1,25 +1,64 @@
-# 2D-Shape-3D-Shape-Calculater
+# 📐 2D & 3D Shape Calculator – C++ Console Application
 
-Hi, I'm Ali, and welcome to my site
-this code is a 2D and 3D shape calculator using C++. It was a university project, and I wrote the Instructor's question.
+A C++ console-based program that calculates **perimeter, area, surface area, and volume** for multiple 2D and 3D shapes using a menu-driven interface.
 
-Write a program calculating the perimeter, surface area, and volume for the following 2D/3D shapes. The program has to ask the user to choose a 2D or 3D calculator:
-1.	2D Calculator
-2.	3D Calculator
+This project was developed as part of a university assignment to practice core C++ programming fundamentals such as functions, conditions, loops, and program structure.
 
-If the user chooses 1, they will get the following list of 2D shapes to choose from, then calculate the [perimeter and area]:
-1.	Square.
-2.	Rectangle.
-3.	Circle.
-4.	Triangle.
-5.	Ellipse
+---
 
-If the user chooses 2, they will get the following list of 3D shapes (solid) to choose from, then calculate the [surface area and volume]
-1.	Cube.
-2.	Cuboid.
-3.	Sphere.
-4.	Cylinder.
-5.	Cone.
+## 📚 Project Overview
 
-To contact personal social:
-Twitter: @AliAldahmani
+The program starts with a main menu that allows the user to choose between:
+
+- 2D Shape Calculations
+- 3D Shape Calculations
+
+Each section contains a list of shapes. The user selects a shape, enters the required values, and the program calculates and displays the result. The system allows the user to continue calculations, return to the main menu, or exit.
+
+---
+
+## 🧮 Supported 2D Shapes (Perimeter & Area)
+
+- Square
+- Rectangle
+- Circle
+- Triangle
+- Ellipse
+
+---
+
+## 🧊 Supported 3D Shapes (Surface Area & Volume)
+
+- Cube
+- Cuboid
+- Sphere
+- Cylinder
+- Cone
+
+---
+
+## ⚙️ Program Features
+
+- Menu-driven console interface
+- Functions dedicated to each shape formula
+- Use of loops to allow repeated calculations
+- Input validation through menu selection
+- Organized program flow using functions and conditions
+- Mathematical calculations using `<cmath>`
+
+---
+
+## 🧠 Programming Concepts Used
+
+- Functions
+- Conditional statements (`if`, `switch`)
+- Loops (`do-while`)
+- Global variables
+- Mathematical formulas implementation
+- Console input/output (`cin`, `cout`)
+
+---
+
+## 🎯 Purpose of the Project
+
+The goal of this project is to apply fundamental C++ concepts by building a real interactive program that performs practical mathematical calculations for geometry shapes.
