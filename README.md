@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/GitHub-Ali%20Aldahmani-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-ff0000?style=for-the-badge&logo=google-gemini&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/Current%20GPA-Loading...-success?style=for-the-badge" alt="GPA">
 </p>
 
 ---
