@@ -8,8 +8,7 @@ This repository contains all my university projects during my AI degree at AURAK
 
 ## Subjects
 
-- CSCI232 – Discrete Thinking
-- OOP – Java Programming
+- CSCIOOP – Java Programming
 
 Each folder contains assignments, mini-projects, and reports.
 
