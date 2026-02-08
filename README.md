@@ -8,7 +8,7 @@ This repository contains all my university projects during my AI degree at AURAK
 
 ## Subjects
 
-- CSCIOOP – Java Programming
+- CSCI-211 - OOP – Java Programming
 
 Each folder contains assignments, mini-projects, and reports.
 
